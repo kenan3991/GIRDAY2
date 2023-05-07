@@ -4,4 +4,5 @@ public class Cart {
 
     //shopping
     //prices
+    // discounts
 }
